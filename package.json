@@ -1,6 +1,7 @@
 {
   "name": "star-wars",
   "version": "0.1.0",
+  "homepage": "https://xuski-tip.github.io/Star-Wars/",
   "private": true,
   "dependencies": {
     "classnames": "^2.3.1",
